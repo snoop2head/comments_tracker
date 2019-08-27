@@ -1,0 +1,12 @@
+selenium
+time
+slack
+slackclient
+slackeventsapi
+regex
+pymongo
+urllib3
+google-api-client
+google-auth
+google-auth-oauthlib
+google-api-python-client
